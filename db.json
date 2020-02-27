@@ -20,3 +20,26 @@
     }
   ]
 }
+
+{
+  "employers": [
+    {
+      "id": 1,
+      "company_name": "IBM",
+      "city": "White Plains",
+      "industry": "technology"
+    },
+    {
+       "id": 2,
+      "company_name": "Pfizer",
+      "city": "Philadelphia",
+      "industry": "health care"
+    },
+    {
+      "id": 1,
+      "company_name": "Apple",
+      "city": "San Jose",
+      "industry": "technology"
+    }
+  ]
+}
